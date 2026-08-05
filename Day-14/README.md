@@ -24,7 +24,7 @@
 
 ## 📈 Progress
 
-* Striver A2Z: **90/474** ✅
+* Striver A2Z: **89/474** ✅
 
 ## 🎯 Patterns Learned Today
 
